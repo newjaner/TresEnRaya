@@ -45,7 +45,7 @@ public class Tuning extends JFrame {
 	 * Create the frame.
 	 */
 	public Tuning() {
-		setTitle("Taller de TuNing");
+		setTitle("Taller de TuNingGGGGGGG");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 681, 748);
 		contentPane = new JPanel();
